@@ -2,11 +2,11 @@
   <groupId>org.rivchain</groupId>
   <artifactId>mesh</artifactId>
   <versioning>
-    <latest>0.4.7.11</latest>
-    <release>0.4.7.11</release>
+    <latest>0.4.7.12</latest>
+    <release>0.4.7.12</release>
     <versions>
-      <version>0.4.7.11</version>
+      <version>0.4.7.12</version>
     </versions>
-    <lastUpdated>20240829162026</lastUpdated>
+    <lastUpdated>20240829162851</lastUpdated>
   </versioning>
 </metadata>
