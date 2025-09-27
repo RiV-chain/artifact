@@ -1,0 +1,122 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.deepmedia.tools",
+    "module": "grease",
+    "version": "0.3.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "grease-0.3.6.jar",
+          "url": "grease-0.3.6.jar",
+          "size": 233269,
+          "sha512": "9e71f5dc54b4f50ac1191dba17f3a7c4f436d53710ed9fbd23d0f5940dd680a664c7c1087165b9df4fe247382b39955d0b8a8e2e5d2281da913cae6975ff238a",
+          "sha256": "77faec169c7dcbf66c068c4c71497aa3403d9f6a91bda37e063bc62f044a5a79",
+          "sha1": "4be71ce11a28416b611ef15c2b58ad48152d6cea",
+          "md5": "d098f9f2dc962956053dad83121dc5e4"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-commons",
+          "version": {
+            "requires": "9.6"
+          }
+        },
+        {
+          "group": "com.gradleup.shadow",
+          "module": "shadow-gradle-plugin",
+          "version": {
+            "requires": "8.3.0"
+          }
+        },
+        {
+          "group": "com.android.tools",
+          "module": "sdk-common",
+          "version": {
+            "requires": "31.1.4"
+          }
+        },
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle",
+          "version": {
+            "requires": "8.11.2"
+          }
+        },
+        {
+          "group": "com.android.tools",
+          "module": "common",
+          "version": {
+            "requires": "31.1.4"
+          }
+        },
+        {
+          "group": "com.android.tools.layoutlib",
+          "module": "layoutlib-api",
+          "version": {
+            "requires": "31.1.4"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-metadata-jvm",
+          "version": {
+            "requires": "0.9.0"
+          }
+        },
+        {
+          "group": "org.apache.ant",
+          "module": "ant",
+          "version": {
+            "requires": "1.10.14"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "grease-0.3.6.jar",
+          "url": "grease-0.3.6.jar",
+          "size": 233269,
+          "sha512": "9e71f5dc54b4f50ac1191dba17f3a7c4f436d53710ed9fbd23d0f5940dd680a664c7c1087165b9df4fe247382b39955d0b8a8e2e5d2281da913cae6975ff238a",
+          "sha256": "77faec169c7dcbf66c068c4c71497aa3403d9f6a91bda37e063bc62f044a5a79",
+          "sha1": "4be71ce11a28416b611ef15c2b58ad48152d6cea",
+          "md5": "d098f9f2dc962956053dad83121dc5e4"
+        }
+      ]
+    }
+  ]
+}
