@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.deepmedia.tools.grease</groupId>
+  <artifactId>io.deepmedia.tools.grease.gradle.plugin</artifactId>
+  <version>0.3.7</version>
+  <packaging>pom</packaging>
+  <name>Grease</name>
+  <description>Fat AARs for Android, to distribute multiple library modules in a single file with no dependencies, with relocation support.</description>
+  <url>https://github.com/deepmedia/Grease</url>
+  <licenses>
+    <license>
+      <name>Apache-2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Mattia Iavarone</name>
+      <email>mattia@deepmedia.io</email>
+      <organization>DeepMedia</organization>
+      <organizationUrl>https://deepmedia.io</organizationUrl>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/deepmedia/Grease.git</connection>
+    <developerConnection>scm:git:ssh://github.com:deepmedia/Grease.git</developerConnection>
+    <tag>v0.3.7</tag>
+    <url>https://github.com/deepmedia/Grease</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>io.deepmedia.tools</groupId>
+      <artifactId>grease</artifactId>
+      <version>0.3.7</version>
+    </dependency>
+  </dependencies>
+</project>

@@ -4,11 +4,11 @@
   <artifactId>io.deepmedia.tools.grease.gradle.plugin</artifactId>
   <versioning>
     <latest>latest-SNAPSHOT</latest>
-    <release>0.3.6</release>
+    <release>0.3.7</release>
     <versions>
-      <version>0.3.6</version>
+      <version>0.3.7</version>
       <version>latest-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250927142440</lastUpdated>
+    <lastUpdated>20250927160426</lastUpdated>
   </versioning>
 </metadata>

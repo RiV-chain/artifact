@@ -8,30 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.deepmedia.tools</groupId>
   <artifactId>grease</artifactId>
-  <version>latest-SNAPSHOT</version>
-  <name>Grease</name>
-  <description>Fat AARs for Android, to distribute multiple library modules in a single file with no dependencies, with relocation support.</description>
-  <url>https://github.com/deepmedia/Grease</url>
-  <licenses>
-    <license>
-      <name>Apache-2.0</name>
-      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-    </license>
-  </licenses>
-  <developers>
-    <developer>
-      <name>Mattia Iavarone</name>
-      <email>mattia@deepmedia.io</email>
-      <organization>DeepMedia</organization>
-      <organizationUrl>https://deepmedia.io</organizationUrl>
-    </developer>
-  </developers>
-  <scm>
-    <connection>scm:git:git://github.com/deepmedia/Grease.git</connection>
-    <developerConnection>scm:git:ssh://github.com:deepmedia/Grease.git</developerConnection>
-    <tag>vlatest-SNAPSHOT</tag>
-    <url>https://github.com/deepmedia/Grease</url>
-  </scm>
+  <version>0.3.7</version>
   <dependencies>
     <dependency>
       <groupId>org.ow2.asm</groupId>

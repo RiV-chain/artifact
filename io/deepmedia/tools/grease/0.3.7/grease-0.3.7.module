@@ -3,9 +3,9 @@
   "component": {
     "group": "io.deepmedia.tools",
     "module": "grease",
-    "version": "latest-SNAPSHOT",
+    "version": "0.3.7",
     "attributes": {
-      "org.gradle.status": "integration"
+      "org.gradle.status": "release"
     }
   },
   "createdBy": {
@@ -27,8 +27,8 @@
       },
       "files": [
         {
-          "name": "grease-latest-SNAPSHOT.jar",
-          "url": "grease-latest-SNAPSHOT.jar",
+          "name": "grease-0.3.7.jar",
+          "url": "grease-0.3.7.jar",
           "size": 233274,
           "sha512": "2e55b0658fe987c3f0fe18365a80e3bffd5c31635a68b5bdc1d06ae36045df3e91c6c45c17bc0ee40f17c48f260bf6c3d7de85fb8579630c8ec97d4144191bb2",
           "sha256": "a2aae86cd1eb77773b8ea068981f8101507278559f9d8717e09ea9e113d14c9c",
@@ -108,8 +108,8 @@
       ],
       "files": [
         {
-          "name": "grease-latest-SNAPSHOT.jar",
-          "url": "grease-latest-SNAPSHOT.jar",
+          "name": "grease-0.3.7.jar",
+          "url": "grease-0.3.7.jar",
           "size": 233274,
           "sha512": "2e55b0658fe987c3f0fe18365a80e3bffd5c31635a68b5bdc1d06ae36045df3e91c6c45c17bc0ee40f17c48f260bf6c3d7de85fb8579630c8ec97d4144191bb2",
           "sha256": "a2aae86cd1eb77773b8ea068981f8101507278559f9d8717e09ea9e113d14c9c",

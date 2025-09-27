@@ -3,12 +3,12 @@
   <groupId>io.deepmedia.tools</groupId>
   <artifactId>grease</artifactId>
   <versioning>
-    <latest>0.3.6</latest>
-    <release>0.3.6</release>
+    <latest>0.3.7</latest>
+    <release>0.3.7</release>
     <versions>
-      <version>0.3.6</version>
+      <version>0.3.7</version>
       <version>latest-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250927142440</lastUpdated>
+    <lastUpdated>20250927160426</lastUpdated>
   </versioning>
 </metadata>

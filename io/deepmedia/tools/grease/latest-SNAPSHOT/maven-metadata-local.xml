@@ -3,37 +3,37 @@
   <groupId>io.deepmedia.tools</groupId>
   <artifactId>grease</artifactId>
   <versioning>
-    <lastUpdated>20250927142440</lastUpdated>
+    <lastUpdated>20250927160426</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>sources</classifier>
-        <extension>jar</extension>
+        <extension>module</extension>
         <value>latest-SNAPSHOT</value>
-        <updated>20250927142440</updated>
+        <updated>20250927160426</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
         <value>latest-SNAPSHOT</value>
-        <updated>20250927142440</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>latest-SNAPSHOT</value>
-        <updated>20250927142440</updated>
+        <updated>20250927160426</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>latest-SNAPSHOT</value>
-        <updated>20250927142440</updated>
+        <updated>20250927160426</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>module</extension>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
         <value>latest-SNAPSHOT</value>
-        <updated>20250927142440</updated>
+        <updated>20250927160426</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>latest-SNAPSHOT</value>
+        <updated>20250927160426</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
