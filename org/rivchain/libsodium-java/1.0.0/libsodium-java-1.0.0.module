@@ -27,11 +27,11 @@
         {
           "name": "libsodium-java-1.0.0.jar",
           "url": "libsodium-java-1.0.0.jar",
-          "size": 104852,
-          "sha512": "152473c57253e09f5d785aa7be1cd75a9600ce929304a046405766a7276aff5a4b12dfebc0b3828b4a39416acb8e0d9dd868148ca427854f36e2b834f699bc0b",
-          "sha256": "4fed05606bc9744e0664d27c33430641b2afbfaac80503782880fd959748f093",
-          "sha1": "b2451512bc199a8debcb314cc716f2c9aa63cc2b",
-          "md5": "71aa9dacc9c7a1d75dec7b39ede5ded0"
+          "size": 104853,
+          "sha512": "934e499b35dec53c943658e8520a7bd3358b1711fed863c6524c55b56150f38ab673a989822868e4dda1f9e07e6dc2a6fc9c74ccb395c3731c71988887c9ca18",
+          "sha256": "dbaeff84e2f09dc905396c69438e8f7c8e6b076e3e1f743abe1d2ebc3b999a39",
+          "sha1": "f834c4246533668e8af7ef1ade2e4925d0e87c38",
+          "md5": "d0bc27c3206741a3ffa3fa9e0654470a"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "libsodium-java-1.0.0.jar",
           "url": "libsodium-java-1.0.0.jar",
-          "size": 104852,
-          "sha512": "152473c57253e09f5d785aa7be1cd75a9600ce929304a046405766a7276aff5a4b12dfebc0b3828b4a39416acb8e0d9dd868148ca427854f36e2b834f699bc0b",
-          "sha256": "4fed05606bc9744e0664d27c33430641b2afbfaac80503782880fd959748f093",
-          "sha1": "b2451512bc199a8debcb314cc716f2c9aa63cc2b",
-          "md5": "71aa9dacc9c7a1d75dec7b39ede5ded0"
+          "size": 104853,
+          "sha512": "934e499b35dec53c943658e8520a7bd3358b1711fed863c6524c55b56150f38ab673a989822868e4dda1f9e07e6dc2a6fc9c74ccb395c3731c71988887c9ca18",
+          "sha256": "dbaeff84e2f09dc905396c69438e8f7c8e6b076e3e1f743abe1d2ebc3b999a39",
+          "sha1": "f834c4246533668e8af7ef1ade2e4925d0e87c38",
+          "md5": "d0bc27c3206741a3ffa3fa9e0654470a"
         }
       ]
     }
