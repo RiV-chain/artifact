@@ -26,11 +26,11 @@
         {
           "name": "libsodium-android-1.0.0.aar",
           "url": "libsodium-android-1.0.0.aar",
-          "size": 89013,
-          "sha512": "3bbe57329f364358edd4464e3b3e2f7a54cd846523e5d788426b60f34a183dc5b86e81b0e2ca86ba696e67380ea88244901f1f7868079e7744c3430b75b32db3",
-          "sha256": "4acd1e8b6868df0427526332f3817d492620c0cf5aacd3e2083075c033598f83",
-          "sha1": "1e804335d2753a2445e737a3e03c35738b8af4ea",
-          "md5": "0adb2604068a4cc124f86435c1ec8e5e"
+          "size": 89012,
+          "sha512": "c95bc0b9a5322b890d299db9ad98696ad57d016a4af3e69d3db243f62354c56f4f8b05519fe5796c0ea9804f415fe908a71cbce2e52bbb6677d50947168dd85c",
+          "sha256": "d15150471af936a711e68437e96a73e52665dbb10dd2cb833ab7b8cdfebc9102",
+          "sha1": "02d04a83de562a75fbc393e78b3331bc857a4a80",
+          "md5": "6c0cffeb8472e857c245f8007c444599"
         }
       ]
     },
@@ -68,11 +68,11 @@
         {
           "name": "libsodium-android-1.0.0.aar",
           "url": "libsodium-android-1.0.0.aar",
-          "size": 89013,
-          "sha512": "3bbe57329f364358edd4464e3b3e2f7a54cd846523e5d788426b60f34a183dc5b86e81b0e2ca86ba696e67380ea88244901f1f7868079e7744c3430b75b32db3",
-          "sha256": "4acd1e8b6868df0427526332f3817d492620c0cf5aacd3e2083075c033598f83",
-          "sha1": "1e804335d2753a2445e737a3e03c35738b8af4ea",
-          "md5": "0adb2604068a4cc124f86435c1ec8e5e"
+          "size": 89012,
+          "sha512": "c95bc0b9a5322b890d299db9ad98696ad57d016a4af3e69d3db243f62354c56f4f8b05519fe5796c0ea9804f415fe908a71cbce2e52bbb6677d50947168dd85c",
+          "sha256": "d15150471af936a711e68437e96a73e52665dbb10dd2cb833ab7b8cdfebc9102",
+          "sha1": "02d04a83de562a75fbc393e78b3331bc857a4a80",
+          "md5": "6c0cffeb8472e857c245f8007c444599"
         }
       ]
     },
