@@ -1,0 +1,120 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.rivchain",
+    "module": "libsodium-android",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libsodium-android-1.0.0.aar",
+          "url": "libsodium-android-1.0.0.aar",
+          "size": 758374,
+          "sha512": "965269695f8fa07d0a7cc3c408f689fdad0e6f9f0df49ce8f2c9a79b5244c362aa99c9def953c90e9dd19d6644fc4d1cbcf6becce44a947c73b445dff2e3ca4d",
+          "sha256": "c88d80cdff49502c68171551be24b7300acd1d8401067f783e8be1026fb4b512",
+          "sha1": "561fd5fa1fd7312d850282572270ccc41becd4d4",
+          "md5": "58697f08d0a073661af7b2f420a44e2b"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.java.dev.jna",
+          "module": "jna",
+          "version": {
+            "requires": "5.18.0"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ],
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "jna",
+              "type": "aar",
+              "extension": "aar"
+            }
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libsodium-android-1.0.0.aar",
+          "url": "libsodium-android-1.0.0.aar",
+          "size": 758374,
+          "sha512": "965269695f8fa07d0a7cc3c408f689fdad0e6f9f0df49ce8f2c9a79b5244c362aa99c9def953c90e9dd19d6644fc4d1cbcf6becce44a947c73b445dff2e3ca4d",
+          "sha256": "c88d80cdff49502c68171551be24b7300acd1d8401067f783e8be1026fb4b512",
+          "sha1": "561fd5fa1fd7312d850282572270ccc41becd4d4",
+          "md5": "58697f08d0a073661af7b2f420a44e2b"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libsodium-android-1.0.0-sources.jar",
+          "url": "libsodium-android-1.0.0-sources.jar",
+          "size": 2746,
+          "sha512": "57edc696c6187bf80550c381531860ff8ac574feb2bbffc3effe32a13593d1c525be88e2bbe461355d47b96592b90258dfe344c21ff53f5e9396f91b153b28b0",
+          "sha256": "81211993d7a518a85176b3d38a6107ddab77e46b1e670024626878779ca54dab",
+          "sha1": "5ab605f51b75f21595ec90332d564f670c222f3b",
+          "md5": "63f3d86ba91dfc4467cd78c2d10d2c1a"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libsodium-android-1.0.0-javadoc.jar",
+          "url": "libsodium-android-1.0.0-javadoc.jar",
+          "size": 292663,
+          "sha512": "7affe6e5ff87333f08b23419eb2ddc2df6e4e4c121b3a8528d60b0b3d588c86fb0148d369a293c18962d5042cb9440c890a0e6b459ff39d3beb3c3cbd080c18b",
+          "sha256": "0d9e7ac31c60e4b35693455dc3acabaec87710a283958c4653978e005b35a393",
+          "sha1": "4f32e1988384f6c47b972afa8ecf1158edd00d6e",
+          "md5": "3970ea9b35a446bb690c2b69e9e94c64"
+        }
+      ]
+    }
+  ]
+}
