@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.rivchain",
+    "module": "libsodium-java",
+    "version": "2.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libsodium-java-2.0.0.jar",
+          "url": "libsodium-java-2.0.0.jar",
+          "size": 104671,
+          "sha512": "b6645e478deb34b35cda66be649bb36e6fd96a70dc560dec8603b32d5bb3f6b3d89deafccd2bf11468ea8852044fe680d210b4576aa4cf965e13b5ba686aad1b",
+          "sha256": "c6252ddabce5af099e7b01321f60c8ff5bd4a3501c4f20840e0dcea38c1fc335",
+          "sha1": "c4bf9125774c32ebf188304e9043f06709b1b77b",
+          "md5": "d1cbcfd13fb3233dae05f4a3ffbf7189"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.java.dev.jna",
+          "module": "jna",
+          "version": {
+            "requires": "5.18.0"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.17"
+          }
+        },
+        {
+          "group": "com.goterl",
+          "module": "resource-loader",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libsodium-java-2.0.0.jar",
+          "url": "libsodium-java-2.0.0.jar",
+          "size": 104671,
+          "sha512": "b6645e478deb34b35cda66be649bb36e6fd96a70dc560dec8603b32d5bb3f6b3d89deafccd2bf11468ea8852044fe680d210b4576aa4cf965e13b5ba686aad1b",
+          "sha256": "c6252ddabce5af099e7b01321f60c8ff5bd4a3501c4f20840e0dcea38c1fc335",
+          "sha1": "c4bf9125774c32ebf188304e9043f06709b1b77b",
+          "md5": "d1cbcfd13fb3233dae05f4a3ffbf7189"
+        }
+      ]
+    }
+  ]
+}
